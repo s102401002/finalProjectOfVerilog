@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1/modelsim_ase/win32aloem
+vJAM
+Z0 !s110 1736531724
+!i10b 1
+!s100 iR1k`JI;O@@[d]=10@3ZZ1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+INfNJ2jCPmi>hB5h=V8@XO0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Yuson/Documents/Verilog/final/JAM
+w1736531390
+8C:/Users/Yuson/Documents/Verilog/final/JAM/JAM.v
+FC:/Users/Yuson/Documents/Verilog/final/JAM/JAM.v
+!i122 95
+L0 1 162
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1736531723.000000
+!s107 C:/Users/Yuson/Documents/Verilog/final/JAM/JAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yuson/Documents/Verilog/final/JAM/JAM.v|
+!i113 1
+o-work work
+Z5 tCvgOpt 0
+n@j@a@m
+vtestfixture
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+R0
+!i10b 1
+!s100 JeY2mmdofU[iYl?[MEQb60
+R1
+Ia[i42XR;RUK<BB3^^45N>2
+R2
+S1
+R3
+w1736523347
+8C:/Users/Yuson/Documents/Verilog/final/JAM/tb.sv
+FC:/Users/Yuson/Documents/Verilog/final/JAM/tb.sv
+!i122 96
+L0 18 170
+R4
+r1
+!s85 0
+31
+!s108 1736531724.000000
+!s107 C:/Users/Yuson/Documents/Verilog/final/JAM/tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Yuson/Documents/Verilog/final/JAM/tb.sv|
+!i113 1
+o-work work -sv
+R5

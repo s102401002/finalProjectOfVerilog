@@ -1,0 +1,129 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "W[0]",
+					"strict" : false
+				},
+				{
+					"name" : "W[1]",
+					"strict" : false
+				},
+				{
+					"name" : "W[2]",
+					"strict" : false
+				},
+				{
+					"name" : "J[0]",
+					"strict" : false
+				},
+				{
+					"name" : "J[1]",
+					"strict" : false
+				},
+				{
+					"name" : "J[2]",
+					"strict" : false
+				},
+				{
+					"name" : "MatchCount[0]",
+					"strict" : false
+				},
+				{
+					"name" : "MatchCount[1]",
+					"strict" : false
+				},
+				{
+					"name" : "MatchCount[2]",
+					"strict" : false
+				},
+				{
+					"name" : "MatchCount[3]",
+					"strict" : false
+				},
+				{
+					"name" : "MinCost[0]",
+					"strict" : false
+				},
+				{
+					"name" : "MinCost[1]",
+					"strict" : false
+				},
+				{
+					"name" : "MinCost[2]",
+					"strict" : false
+				},
+				{
+					"name" : "MinCost[3]",
+					"strict" : false
+				},
+				{
+					"name" : "MinCost[4]",
+					"strict" : false
+				},
+				{
+					"name" : "MinCost[5]",
+					"strict" : false
+				},
+				{
+					"name" : "MinCost[6]",
+					"strict" : false
+				},
+				{
+					"name" : "MinCost[7]",
+					"strict" : false
+				},
+				{
+					"name" : "MinCost[8]",
+					"strict" : false
+				},
+				{
+					"name" : "MinCost[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Valid",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "RST",
+					"strict" : false
+				},
+				{
+					"name" : "Cost[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Cost[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Cost[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Cost[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Cost[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Cost[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Cost[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

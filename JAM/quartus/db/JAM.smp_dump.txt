@@ -1,0 +1,10 @@
+
+State Machine - |JAM|state
+Name state.DONE state.REVERSE state.SWAP state.FIND state.CAL state.GET state.IDLE 
+state.IDLE 0 0 0 0 0 0 0 
+state.GET 0 0 0 0 0 1 1 
+state.CAL 0 0 0 0 1 0 1 
+state.FIND 0 0 0 1 0 0 1 
+state.SWAP 0 0 1 0 0 0 1 
+state.REVERSE 0 1 0 0 0 0 1 
+state.DONE 1 0 0 0 0 0 1 
